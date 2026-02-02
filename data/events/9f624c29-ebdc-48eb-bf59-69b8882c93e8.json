@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "0291390f-a947-4844-bc9e-bb7a32737ec7": {
-      "label": "AV File 1",
+      "label": "Welcome",
       "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/234/118/original/01_Welcome.mp4?1710862153",
       "duration": 1015.636,
       "file_type": "Video"
@@ -20,8 +20,11 @@
   ],
   "created_at": "2026-02-02T18:35:56.395Z",
   "created_by": "ndamours14",
-  "label": "Media File 1 of 1 - 01_Welcome.mp4",
-  "updated_at": "2026-02-02T18:35:56.395Z",
+  "label": "FIP 2024 Welcome and Opening Remarks",
+  "updated_at": "2026-02-02T18:36:11.022Z",
   "updated_by": "ndamours14",
-  "rights_statement": ""
+  "rights_statement": "",
+  "av_file_order": [
+    "0291390f-a947-4844-bc9e-bb7a32737ec7"
+  ]
 }
