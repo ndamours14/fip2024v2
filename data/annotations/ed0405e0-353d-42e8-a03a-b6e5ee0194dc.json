@@ -1,0 +1,117 @@
+{
+  "event_id": "28cba4c2-c8a4-4e12-9abd-80e9e3dd1460",
+  "source_id": "0d9178f5-c713-4fc8-9afe-f9499d858a31",
+  "set": "Avalon Structural Metadata wh246t48v [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 41,
+      "annotation": [
+        {
+          "text": "Intro and theme music"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e9429d7-cf9b-4e1d-823c-2a6928a650ca"
+    },
+    {
+      "start_time": 41,
+      "end_time": 78,
+      "annotation": [
+        {
+          "text": "Jars Balan introduces Matt Cohen"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd24de52-6d82-4ddb-8ecb-267a8147d47e"
+    },
+    {
+      "start_time": 79,
+      "end_time": 117,
+      "annotation": [
+        {
+          "text": "Cohen introduces \"Death of a Guppy\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8e745a5d-d74d-4d6f-9b9c-9b3e43bb6780"
+    },
+    {
+      "start_time": 118,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "text": "Cohen performs \"Death of a Guppy\""
+        }
+      ],
+      "tags": [],
+      "uuid": "a52bf970-836a-4070-b810-e92002947b36"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "text": "Balan and Cohen discuss Canadian literary scene"
+        }
+      ],
+      "tags": [],
+      "uuid": "d601bde0-548d-4108-8b6a-c6663accb73d"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1292,
+      "annotation": [
+        {
+          "text": "Balan and Cohen discuss importance of literary community"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4dcdc90-f9d7-4cd5-9c8f-fa6f8a9fbb38"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1388,
+      "annotation": [
+        {
+          "text": "Balan and Cohen discuss need for diverse literary voices"
+        }
+      ],
+      "tags": [],
+      "uuid": "959cdc83-de0e-4c64-9ea5-2e89bf6dfee5"
+    },
+    {
+      "start_time": 1388,
+      "end_time": 1538,
+      "annotation": [
+        {
+          "text": "Balan and Cohen discuss regional Canadian literature"
+        }
+      ],
+      "tags": [],
+      "uuid": "35e3d9b1-f846-4bb4-b057-4a9054ad7b45"
+    },
+    {
+      "start_time": 1538,
+      "end_time": 1720,
+      "annotation": [
+        {
+          "text": "Balan and Cohen discuss academia"
+        }
+      ],
+      "tags": [],
+      "uuid": "f595b449-fb12-4e29-91ae-5f702fe23ce0"
+    },
+    {
+      "start_time": 1720,
+      "end_time": 1815,
+      "annotation": [
+        {
+          "text": "Outro, theme music, and credits"
+        }
+      ],
+      "tags": [],
+      "uuid": "12466888-9ad3-4a31-8a27-9c28b825b9b8"
+    }
+  ]
+}

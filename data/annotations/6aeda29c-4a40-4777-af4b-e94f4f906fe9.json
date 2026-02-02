@@ -1,0 +1,18 @@
+{
+  "event_id": "28cba4c2-c8a4-4e12-9abd-80e9e3dd1460",
+  "source_id": "0d9178f5-c713-4fc8-9afe-f9499d858a31",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/071/511/original/transcript_1731788716.vtt20241116-1096777-ft1qfw.vtt20241116-1096777-ft1qfw?1731788716"
+        }
+      ],
+      "tags": [],
+      "uuid": "34a4bf4c-14f7-4283-8158-040003b927c1"
+    }
+  ]
+}
